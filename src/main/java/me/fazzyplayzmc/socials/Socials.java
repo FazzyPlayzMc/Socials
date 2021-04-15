@@ -14,6 +14,5 @@ public final class Socials extends JavaPlugin {
         // Register commands
         getCommand("discord").setExecutor(new DiscordCmd(this));
         getCommand("website").setExecutor(new WebCmd(this));
-        test
     }
 }

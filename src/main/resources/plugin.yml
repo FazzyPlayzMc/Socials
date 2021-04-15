@@ -1,0 +1,12 @@
+name: Socials
+version: ${project.version}
+main: me.fazzyplayzmc.socials.Socials
+api-version: 1.16
+authors: [ FazzyPlayzMc ]
+description: A simple plugin with a few commands to link socials
+commands:
+  discord:
+    description: Displays discord invite
+  website:
+    description: Displays website link
+    aliases: [web]

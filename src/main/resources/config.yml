@@ -1,0 +1,10 @@
+# This stores all messages
+
+# Sent when command executer isn't a player
+must-be-player: '&cYou must be a player to execute this command!'
+# Sent to player if they don't have the correct permission
+no-perm: '&cYou do not have the permission to execute this!'
+# /discord output
+discord-msg: '&dDiscord: https://discord.gg/WM8UrtGNwK'
+# /website output
+web-msg: '&bWebsite: https://kingrealms.com'
